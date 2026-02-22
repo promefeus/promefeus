@@ -35,8 +35,9 @@ Exploring the intersection of Deep Learning, RAG architectures, and scalable ML 
 
 ### 🌐 Connect & Collaborate
 <p align="left">
-<a href="https://linkedin.com/in/nitin-saini"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nsainin2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nitin--saini"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/promefeus/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:nsainin2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=60&section=footer" width="100%"/>
