@@ -7,7 +7,7 @@ Exploring the intersection of Deep Learning, RAG architectures, and scalable ML 
 ### 🔬 Research & Specialization
 - **Generative AI:** RAG-based systems, LangChain, and Embedding-based retrieval.
 - **Deep Learning:** Neural Architectures (ANNs, CNNs), Transformers, and Seq2Seq modeling.
-- **Computer Vision & NLP:** Multi-cancer classification systems and document intelligence.
+- **Computer Vision & NLP:** Multi-class classification systems and document intelligence.
 - **MLOps:** Containerization with Docker and interactive deployment via Streamlit.
 
 ---
@@ -15,17 +15,20 @@ Exploring the intersection of Deep Learning, RAG architectures, and scalable ML 
 ### 🛠️ Core Tech Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Deep Learning** | `PyTorch` `TensorFlow` `Keras` |
-| **ML Frameworks** | `Scikit-learn` `XGBoost` `FastAPI` |
+| **Deep Learning** | `PyTorch` `TensorFlow` `Keras` `Transformers` `LLMs`|
+| **ML Frameworks** | `Scikit-learn` `XGBoost` `LightGBM` `Feature Engineering` `Model Tuning` |
+| **GenAI / NLP** | `RAG` `LangChain` `HuggingFace` `Vector DBs` `Embeddings` |
 | **Data Science** | `Pandas` `NumPy` `Matplotlib` `Seaborn` |
-| **Tools & Ops** | `Docker` `Git` `DagsHub` `Linux` |
+| **Tools & Ops** | `Docker` `Git` `DagsHub` `Linux` `steamlit` |
 
 ---
 
 ### 📊 Performance Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=promefeus&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=promefeus&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=promefeus&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" height="150" />
+</p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=promefeus&theme=tokyonight&area=true&hide_border=true&bg_color=00000000&color=00d4ff" width="100%" />
 </p>
 
 ---
